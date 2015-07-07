@@ -1,0 +1,28 @@
+{
+  "name": "damoclesX",
+  "version": "1.0.0",
+  "description": "learn nodeJs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/damoclesX/nodeJS.git"
+  },
+  "keywords": [
+    "node",
+    "damoclesX"
+  ],
+  "author": "damoclesX",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/damoclesX/nodeJS/issues"
+  },
+  "homepage": "https://github.com/damoclesX/nodeJS",
+  "devDependencies": {
+    "jade": "^1.11.0",
+    "nodemon": "^1.3.7"
+  }
+}
